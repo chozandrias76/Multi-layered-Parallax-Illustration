@@ -29,7 +29,7 @@ body {
 
 #front-mobile {
   display: none;
-  background:url("http://i.imgur.com/TE8Kdtn.png") no-repeat center bottom/cover;
+  background:url("https://i.imgur.com/TE8Kdtn.png") no-repeat center bottom/cover;
   height: 320px;
 }
 
@@ -62,23 +62,23 @@ p {
 }
 
 .layer-bg {
-  background-image: url("http://i.imgur.com/CVFdGa7.png");
+  background-image: url("https://i.imgur.com/CVFdGa7.png");
 }
 
 .layer-1 {
-  background-image: url("http://i.imgur.com/l9y2PCn.png");
+  background-image: url("https://i.imgur.com/l9y2PCn.png");
 }
 
 .layer-2 {
-  background-image: url("http://i.imgur.com/kygbXif.png");
+  background-image: url("https://i.imgur.com/kygbXif.png");
 }
 
 .layer-3 {
-  background-image: url("http://i.imgur.com/p70GyCr.png");
+  background-image: url("https://i.imgur.com/p70GyCr.png");
 }
 
 .layer-overlay {
-  background-image: url("http://i.imgur.com/gOJMjAq.png");
+  background-image: url("https://i.imgur.com/gOJMjAq.png");
 }
 
 @media only screen and (max-width: 768px) {
