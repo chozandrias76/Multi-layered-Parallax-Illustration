@@ -5,9 +5,9 @@
         topDistance = this.pageYOffset;
         layers = document.querySelectorAll('[data-type=\'parallax\']');
         for (i = 0, len = layers.length; i < len; i++) {
-            if (window.CP.shouldStopExecution(1)) {
-                break;
-            }
+//             if (window.CP.shouldStopExecution(1)) {
+//                 break;
+//             }
             layer = layers[i];
 					  depth = layer.hasAttribute('data-depth') ? layer.getAttribute('data-depth') : i / layers.length;
             movement = -(topDistance * depth);
