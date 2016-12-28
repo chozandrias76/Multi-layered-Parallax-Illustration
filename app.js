@@ -18,7 +18,7 @@
             layer.style['-o-transform'] = translate3d;
             layer.style.transform = translate3d;
         }
-        window.CP.exitedLoop(1);
+//         window.CP.exitedLoop(1);
     });
 })();	
 // var url = 'http://i.imgur.com/CVFdGa7.png';
